@@ -26,7 +26,7 @@ years_of_exp=st.number_input("Years of Experience",0,50)
 df=pd.DataFrame({
   "Age":[age],
   "Gender":[gender],
-  "Education Level":[Education Level],
+  "Education Level":[education_level],
   "Job Title":[job_title],
   "Years of Experience":[year_of_exp]
 })
