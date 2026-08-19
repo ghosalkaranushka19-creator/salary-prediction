@@ -26,3 +26,7 @@ pip install -r requirements.txt
 Run the Streamlit app:
 
 streamlit run salary_prediction_deployment.py
+
+## Live Demo
+
+[Click here to use the Salary Prediction App](https://salary-prediction-anu.streamlit.app/)
